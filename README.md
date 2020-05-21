@@ -26,7 +26,7 @@ The repo provides a detail procedure to connect Oracle XE 11g with Java.
 
 * Adding Oracle Library
 
-  - `Navigation Pane -> Projects -> Libraries -> Add Library`
+  - `Navigation Pane -> Projects -> Libraries -> Add Library` <br>
     ![Image](img/md_add_lib.PNG)
 
   - Give a suitable name to the library and click on OK
